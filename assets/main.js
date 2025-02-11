@@ -50,7 +50,7 @@ const sr = ScrollReveal({
   
   sr.reveal(`.section-subtitle, .home-subtitle, .p-text, .home-img, .button p`, {
     origin: 'top',
-    delay: 400,
+    delay: 300,
     interval: 300,
   })
 
@@ -59,7 +59,7 @@ const sr = ScrollReveal({
     delay: 300,
   })
 
-  sr.reveal(`.service-item-info` , {
+  sr.reveal(`.service-item-info, .gallery-list-item` , {
     origin: 'bottom',
     interval: 200,
   })
