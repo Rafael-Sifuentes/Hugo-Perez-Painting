@@ -11,7 +11,7 @@ function scrollToSection(sectionId) {
     }
 }
 
-window.vote = () => { window.open('https://www.dailysentinel.com/contests/bon25/#/gallery/482239840', '_blank'); };
+window.review = () => { window.open('https://g.page/r/CR1aRZ-T2rcOEBM/review', '_blank'); };
 
 
 // GALLERY SWIPER JS CONTROLS
